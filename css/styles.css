@@ -1,0 +1,22 @@
+
+.body {
+    font-family: "Roboto", "Raleway" sans-serif;
+    color: #434455;
+}
+
+.contacts-header, .main-button:hover {
+    color: #404bbf;
+}
+
+.contacts-header, .main-button:focus {
+    color: #404bbf;
+}
+
+
+.navigation, .contacts-header{
+    font-size: 16px;
+}
+
+.logo-header{
+    font-family: 18px;
+}
