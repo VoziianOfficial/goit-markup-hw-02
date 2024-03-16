@@ -1,22 +1,135 @@
-
 .body {
-    font-family: "Roboto", "Raleway" sans-serif;
-    color: #434455;
+  font-family:"Roboto", "Raleway", sans-serif;
+  color: #434455;
 }
 
-.contacts-header, .main-button:hover {
-    color: #404bbf;
+.logo-header-web {
+  font-size: 18px;
+  line-height: 1.16;
+  color: #4d5ae5;
+  font-weight:700;
+   font-family: "Raleway", sans-serif;
 }
 
-.contacts-header, .main-button:focus {
-    color: #404bbf;
+.logo-header-studio {
+  font-size: 18px;
+  line-height: 1.16;
+  color: #2e2f42;
+  font-weight:700;
+  font-family: "Raleway", sans-serif;
+}
+.menu-nav {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+  font-weight: 500;
+}
+
+.email-link {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+  font-weight: 400;
+}
+
+.tel {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+  font-weight: 400;
+}
+
+.address-header:hover {
+  color: #404bbf;
+}
+
+.address-header:focus {
+  color: #404bbf;
+}
+
+.header{
+    background: #fff;
 }
 
 
-.navigation, .contacts-header{
-    font-size: 16px;
+.section-main{
+    background: #2e2f42;
 }
 
-.logo-header{
-    font-family: 18px;
+.h1 {
+  font-size: 56;
+  line-height: 1.07;
+  color: #fff;
+  font-weight: 700;
+}
+
+.main-button {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #fff;
+  background: #4d5ae5;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.main-button:hover {
+  color: #404bbf;
+}
+
+.main-button:focus {
+  color: #404bbf;
+}
+
+
+.h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  color: #2e2f42;
+  font-weight: 700;
+}
+
+
+.title {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+  font-weight: 500;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+
+.section2{
+    background: #f4f4fd;
+}
+
+
+.footer{
+    background: #2e2f42;
+}
+
+.logo-footer-web {
+  font-size: 18px;
+  line-height: 1.16;
+  color: #4d5ae5;
+  font-weight:700;
+  font-family: "Raleway", sans-serif;
+}
+
+.logo-footer-studio{
+    font-size: 18px;
+    line-height: 1.16;
+    color: #f4f4fd;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+}
+
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #f4f4fd
 }
