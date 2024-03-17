@@ -3,7 +3,7 @@
   color: #434455;
 }
 
-.logo-header-web {
+.logo-web {
   font-size: 18px;
   line-height: 1.16;
   color: #4d5ae5;
@@ -112,13 +112,6 @@
     background: #2e2f42;
 }
 
-.logo-footer-web {
-  font-size: 18px;
-  line-height: 1.16;
-  color: #4d5ae5;
-  font-weight:700;
-  font-family: "Raleway", sans-serif;
-}
 
 .logo-footer-studio{
     font-size: 18px;
