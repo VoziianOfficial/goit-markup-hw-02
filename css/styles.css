@@ -30,28 +30,25 @@
   letter-spacing: 0.02em;
 }
 
-.nav-list:hover {
-  color: #404bbf;
-}
 
-.nav-list:focus {
-  color: #404bbf;
+.link-studio{
+  color:#2e2f42;
 }
 
 .contacts {
   font-size: 16px;
   line-height: 1.5;
-  color: #434455;
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
+  color:#434455;
 }
 
-.contacts:hover {
+.link-studio, .nav-list .contacts, .contacts:hover {
   color: #404bbf;
 }
 
-.contacts:focus {
+.link-studio, .nav-list .contacts, .contacts:focus {
   color: #404bbf;
 }
 
@@ -102,11 +99,11 @@
 }
 
 .section-team {
-  background-color: #F4F4FD;
+  background-color:#F4F4FD;
 }
 
-.team-list{
-  background-color: #FFFFFF;
+.img-list{
+  background-color:#FFFFFF;
 }
 
 .title {
