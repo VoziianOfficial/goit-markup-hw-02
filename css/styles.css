@@ -84,11 +84,11 @@
 }
 
 .main-button:hover {
-  color: #404BBF;
+  background-color: #404BBF;
 }
 
 .main-button:focus {
-  color: #404BBF;
+  background-color: #404BBF;
 }
 
 .title-two {
@@ -101,7 +101,7 @@
   text-align: center;
 }
 
-.section2 {
+.section-team {
   background-color: #F4F4FD;
 }
 
