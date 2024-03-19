@@ -30,24 +30,26 @@
   color: #2e2f42;
 }
 
+
 .contacts {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
-  color: #434455;
+}
+
+.contacts-list{
+  color:#434455;
 }
 
 .link-studio,
-.nav-list .contacts,
-.contacts:hover {
+.nav-list, .contacts-list:hover {
   color: #404bbf;
 }
 
 .link-studio,
-.nav-list .contacts,
-.contacts:focus {
+.nav-list, .contacts-list:focus {
   color: #404bbf;
 }
 
@@ -87,7 +89,7 @@
   background-color: #404bbf;
 }
 
-.title-two {
+.title-team {
   font-size: 36px;
   line-height: 1.11;
   color: #2e2f42;
