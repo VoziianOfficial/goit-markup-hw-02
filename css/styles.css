@@ -22,7 +22,7 @@
   font-family: "Raleway", sans-serif;
 }
 
-.nav-list {
+.nav-link {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
@@ -31,25 +31,22 @@
 }
 
 
-.contacts {
+.contacts-link {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
   font-style: normal;
   letter-spacing: 0.02em;
-}
-
-.contacts-list{
   color:#434455;
 }
 
 .link-studio,
-.nav-list, .contacts-list:hover {
+.nav-link, .contacts-link:hover {
   color: #404bbf;
 }
 
 .link-studio,
-.nav-list, .contacts-list:focus {
+.nav-link, .contacts-link:focus {
   color: #404bbf;
 }
 
@@ -89,7 +86,7 @@
   background-color: #404bbf;
 }
 
-.title-team {
+.title-two {
   font-size: 36px;
   line-height: 1.11;
   color: #2e2f42;
