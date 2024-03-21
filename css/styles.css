@@ -34,8 +34,8 @@
   letter-spacing: 0.02em;
   list-style-type: none;
   text-decoration:none;
-  
 }
+
 
 .header-contacts{
   font-style: normal;
@@ -47,6 +47,14 @@
   font-style: normal;
   letter-spacing: 0.02em;
   color:#434455;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 .nav-link:hover {
@@ -64,6 +72,7 @@
 .contacts-link:focus {
   color: #404bbf;
 }
+
 
 
 .section-main {
